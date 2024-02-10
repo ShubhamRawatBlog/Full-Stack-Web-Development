@@ -58,6 +58,11 @@ button:hover {
   background-color: #ff9933;
 }
 
+.plus {
+  grid-row: span 2;
+  background-color: #ff9933;
+}
+
 .equal {
   grid-column: span 2;
   background-color: #3399ff;
